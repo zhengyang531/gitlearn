@@ -1,0 +1,2 @@
+build.bat
+1. ĞŞ¸Ägradle.properties£¬ĞŞ¸ÄjdkÂ·¾¶
